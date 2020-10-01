@@ -34,7 +34,7 @@ section {
 	border:	1px solid black;
 	background-color: #00FF99;
 	width: 100%;
-	height: 200px;
+	height: 200px;  
 	font-family: Helvetica;
 	color: black;
 	position: relative;
@@ -42,7 +42,7 @@ section {
 }
 
 #chicken {
-	border: 1px solid black;
+	border: 2px solid black;
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
@@ -56,7 +56,7 @@ section {
 }
 
 #beef {
-	border: 1px solid black;
+	border: 2px solid black;
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
@@ -70,7 +70,7 @@ section {
 }
 
 #sushi {
-	border: 1px solid black;
+	border: 2px solid black;
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
